@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,java,gradle,python,intellij,pycharm,android,androidstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,visualstudiocode,java,gradle,python,intellij,pycharm,android,androidstudio
 
+.idea/
+
 ### Android ###
 # Built application files
 *.apk
@@ -709,3 +711,6 @@ Thumbs.db
 
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,java,gradle,python,intellij,pycharm,android,androidstudio
 
+
+# Ignore Gradle build output directory
+build
