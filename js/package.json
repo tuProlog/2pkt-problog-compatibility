@@ -1,0 +1,29 @@
+{
+  "name": "2pkt-problog-on-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tuprolog/2p-utils": "^0.20.3",
+    "@tuprolog/2p-bdd": "^0.20.3",
+    "@tuprolog/2p-core": "^0.20.3",
+    "@tuprolog/2p-parser-core": "^0.20.3",
+    "@tuprolog/2p-parser-js": "^0.20.3",
+    "@tuprolog/2p-parser-theory": "^0.20.3",
+    "@tuprolog/2p-solve": "^0.20.3",
+    "@tuprolog/2p-solve-classic": "^0.20.3",
+    "@tuprolog/2p-solve-plp": "^0.20.3",
+    "@tuprolog/2p-solve-problog": "^0.20.3",
+    "@tuprolog/2p-theory": "^0.20.3",
+    "@tuprolog/2p-unify": "^0.20.3",
+    "@tuprolog/parser-utils": "^0.4.1",
+    "kotlin": "^1.5.31",
+    "kt-math": "^0.4.0"
+  },
+  "type": "module"
+}
